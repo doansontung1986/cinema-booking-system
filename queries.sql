@@ -5,6 +5,10 @@ SELECT * FROM screenings;
 SELECT * FROM seats;
 SELECT * FROM bookings;
 SELECT * FROM reserved_seat;
+SELECT * FROM actors;
+SELECT * FROM categories;
+SELECT * FROM actor_film;
+SELECT * FROM film_category;
 
 SELECT *, CONCAT_WS('-',seat_row, number) as 'Seat Code'
 FROM films
