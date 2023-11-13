@@ -15,9 +15,9 @@
 ![Connection_Setup](connection_setup.jpg)
 
 ## Chạy SQL script để tạo database, bảng và nhập dữ liệu vào các bảng
-	Chạy tuần tự các scrip sau: 
-		+ database_tables.sql
-		+ queries.sql
+Chạy tuần tự các scrip sau: 
+[database_tables.sql](database_tables.sql)
+[queries.sql](database_tables.sql)
 
 ## Sơ đồ cơ sở dữ liệu
 [Database_Relationship](cinema-booking-system-erd-diagram.pdf)
